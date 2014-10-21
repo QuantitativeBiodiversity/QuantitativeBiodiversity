@@ -1,7 +1,6 @@
-# BIOL Z620 Quantitative Biodiversity
+# BIOL Z620 - Quantitative Biodiversity
 
-***Course Syllabus (Spring 2015)***
-
+### Course Syllabus (Spring 2015)
 
 ## Course summary
 This course will introduce graduate student to the theory and commonly used tools needed to study the distribution and abundance of species in time and space. Each class will consist of a short lecture followed by computational exercises designed to analyze different types of biodiversity datasets (microbes, plants, and animals). Students will learn how to estimate alpha and beta diversity; visualize multivariate data; test hypotheses about distribution data using permutations and model selection; and use gene sequence data to map traits to the phylogenies of individuals and the effects of environmental variability on phylogenetic community structure. While being introduced to these concepts and computational tools, students will learn how to use the statistical package while conducting reproducible science using Github. 
@@ -9,7 +8,7 @@ This course will introduce graduate student to the theory and commonly used tool
 “In this course, we will explore the evolutionary and ecological processes that generate and maintain microbial biodiversity. Students will be exposed to contemporary microbiological, molecular, and bioinformatic approaches that are used to study microorganisms in a variety of habitats, including soils, oceans, and the human gut. Core principles will be reinforced and evaluated through a variety of learning tools including quizzes, a laboratory experiment, team projects, discussion of the primary literature, and in-class exams.”     
 
 ### Instructor
-Dr. Jay Lennon
+Dr. Jay Lennon 
 261B Jordan Hall (office)
 812-856-0962 (office phone) 
 lennonj@indiana.edu
