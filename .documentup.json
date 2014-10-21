@@ -1,0 +1,11 @@
+DocumentUp.document({
+  repo:  "QuantitativeBiodiversity/syllabus",
+  name: "Quantitative Biodiversity",
+  twitter: [
+    "jaytlennon",
+    "kenlocey"
+  ],
+  afterRender: function(){
+    alert("rendered");
+  }
+});
