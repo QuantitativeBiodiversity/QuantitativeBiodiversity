@@ -8,10 +8,10 @@ This course will introduce graduate student to the theory and commonly used tool
 “In this course, we will explore the evolutionary and ecological processes that generate and maintain microbial biodiversity. Students will be exposed to contemporary microbiological, molecular, and bioinformatic approaches that are used to study microorganisms in a variety of habitats, including soils, oceans, and the human gut. Core principles will be reinforced and evaluated through a variety of learning tools including quizzes, a laboratory experiment, team projects, discussion of the primary literature, and in-class exams.”     
 
 ### Instructor
-Dr. Jay Lennon 
-261B Jordan Hall (office)
-812-856-0962 (office phone) 
-lennonj@indiana.edu
+Dr. Jay Lennon </br>
+261B Jordan Hall (office) </br>
+812-856-0962 (office phone) </br>
+lennonj@indiana.edu </br>
 
 ### Class meetings
 9:30-12:00 Friday, TBD  
@@ -36,21 +36,21 @@ As a student at IU, you are expected to adhere to the standards and policies det
 ### Attendance: 
 I expect that enrolled students will be punctual and attend all classes. As a general rule, exams will not be rescheduled unless there is documentation of an illness or other emergency. These conflicts or other events should be communicated with the instructor as early as possible.
 
-###Special needs: 
+### Special needs: 
 Please contact me as soon as possible (first two weeks of the semester) if you have a documented disability that will interfere your performance of the activities planned for the course.  
  
 ## Schedule
 
 ### Week 1 
-*Lecture:* Introduction to the course (Github and R)
-*Lab:* Getting computer environment set up: Github and basic R
+**Lecture:** Introduction to the course (Github and R) </br>
+**Lab:** Getting computer environment set up: Github and basic R </br>
 - importing data sets
 - basics of data structures and data manipulation
 - basic plotting  
 
-###Week 2
-*Lecture:* Introduction to biodiversity: alpha diversity
-*Lab:* Alpha diversity
+### Week 2
+**Lecture:** Introduction to biodiversity: alpha diversity </br>
+**Lab:** Alpha diversity </br>
 - estimating richness, including rarefaction
 - estimating evenness, compare and contrast
 - other diversity estimators (Shannon, etc.)
@@ -59,15 +59,15 @@ Please contact me as soon as possible (first two weeks of the semester) if you h
 - Exercise: compare and contrast diversity estimators for a real-world dataset and make some conclusions. Basically repeat this paper: http://www.ncbi.nlm.nih.gov/pubmed/18637951
 
 ### Week 3
-*Lecture:* Introduction to biodiversity: species abundance distributions
-*Lab:* Species abundance distributions
+**Lecture:** Introduction to biodiversity: species abundance distributions </br>
+**Lab:** Species abundance distributions </br>
 - SADs
 - Model fitting (log series, lognormal, etc.)
 - Exercise: BCI data?
 
 ### Week 4 
-*Lecture:* Introduction to biodiversity: beta diversity
-*Lab:* Beta diversity
+**Lecture:** Introduction to biodiversity: beta diversity </br>
+**Lab:** Beta diversity </br>
 - visualizing multivariate data; ordinations, etc. 
 - Distance metrics (Euclidean, Bray, Sorenson, etc.). 
 - Other more classical measures of measuring beta diversity
@@ -75,8 +75,8 @@ Please contact me as soon as possible (first two weeks of the semester) if you h
 - Use a cool dataset? NEON? Have them download it? Show them how to get cool data. 
 
 ### Week 5
-*Lecture:* Introduction to biodiversity: species area relationship?
-*Lab:* Species area relationship?
+**Lecture:** Introduction to biodiversity: species area relationship? </br>
+**Lab:** Species area relationship? </br>
 
 ### Week 6
 *Lecture:* Introduction to biodiversity: phylogenetics
