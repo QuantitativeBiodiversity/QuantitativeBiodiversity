@@ -1,6 +1,6 @@
 {
-  repo: "QuantitativeBiodiversity/syllabus",
-  name: "Quantitative Biodiversity",
-  theme: "V1"
-  google_analytics: "UA-54340077-2",
+  "repo": "QuantitativeBiodiversity/syllabus",
+  "name": "Quantitative Biodiversity",
+  "theme": "V1"
+  "google_analytics": "UA-54340077-2",
 }
