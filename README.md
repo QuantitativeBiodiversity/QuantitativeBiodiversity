@@ -1,5 +1,8 @@
 # Quantitative Biodiversity (BIOL Z620)
 
+[Website](http://documentup.com/QuantitativeBiodiversity/syllabus)<br>
+[Student Portal](https://github.iu.edu/2015-QuantitativeBiodiversity/)<br>
+
 ## Course Syllabus (Spring 2015)
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
