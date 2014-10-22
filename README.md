@@ -1,17 +1,17 @@
 # BIOL Z620 - Quantitative Biodiversity
 
-### Course Syllabus (Spring 2015)
+## Course Syllabus (Spring 2015)
 
-## Course summary
-This course will introduce graduate student to the theory and commonly used tools needed to study the distribution and abundance of species in time and space. Each class will consist of a short lecture followed by computational exercises designed to analyze different types of biodiversity datasets (microbes, plants, and animals). Students will learn how to estimate alpha and beta diversity; visualize multivariate data; test hypotheses about distribution data using permutations and model selection; and use gene sequence data to map traits to the phylogenies of individuals and the effects of environmental variability on phylogenetic community structure. While being introduced to these concepts and computational tools, students will learn how to use the statistical package while conducting reproducible science using Github. 
+Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
-“In this course, we will explore the evolutionary and ecological processes that generate and maintain microbial biodiversity. Students will be exposed to contemporary microbiological, molecular, and bioinformatic approaches that are used to study microorganisms in a variety of habitats, including soils, oceans, and the human gut. Core principles will be reinforced and evaluated through a variety of learning tools including quizzes, a laboratory experiment, team projects, discussion of the primary literature, and in-class exams.”     
+### Course summary
+This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, bacterial, archaeal, and fungal systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. Because biodiversity extends to the genetic level, students will also learn to map traits to phylogenies using gene sequence data. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub.
 
 ### Instructor
 Dr. Jay Lennon </br>
 261B Jordan Hall (office) </br>
 812-856-0962 (office phone) </br>
-lennonj@indiana.edu </br>
+[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity)</br>
 
 ### Class meetings
 9:30-12:00 Friday, TBD  
@@ -59,15 +59,15 @@ Please contact me as soon as possible (first two weeks of the semester) if you h
 - Exercise: compare and contrast diversity estimators for a real-world dataset and make some conclusions. Basically repeat this paper: http://www.ncbi.nlm.nih.gov/pubmed/18637951
 
 ### Week 3
-**Lecture:** Introduction to biodiversity: species abundance distributions </br>
-**Lab:** Species abundance distributions </br>
+**Lecture:** Introduction to biodiversity: species abundance distributions</br>
+**Lab:** Species abundance distributions</br>
 - SADs
 - Model fitting (log series, lognormal, etc.)
 - Exercise: BCI data?
 
 ### Week 4 
-**Lecture:** Introduction to biodiversity: beta diversity </br>
-**Lab:** Beta diversity </br>
+**Lecture:** Introduction to biodiversity: beta diversity</br>
+**Lab:** Beta diversity</br>
 - visualizing multivariate data; ordinations, etc. 
 - Distance metrics (Euclidean, Bray, Sorenson, etc.). 
 - Other more classical measures of measuring beta diversity
