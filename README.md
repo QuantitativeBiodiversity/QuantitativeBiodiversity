@@ -1,6 +1,6 @@
 # Quantitative Biodiversity (BIOL Z620)
 
-[Website](http://documentup.com/QuantitativeBiodiversity/syllabus)<br>
+[Website](http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity)<br>
 [Student Portal](https://github.iu.edu/2015-QuantitativeBiodiversity/)<br>
 
 ## Course Syllabus (Spring 2015)
