@@ -31,7 +31,7 @@ Git is a version control system that allows users to track, record, and recover 
 
 ### Learning Objectives
 **Quantitative Biodiversity is organized around the following learning objectives**<br>
-&nbsp;&nbsp;***Upon completion of the coruse, students will be able to:***<br>
+&nbsp;&nbsp;***Upon completion of the course, students will be able to:***<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1. Identify and discuss core concepts of biodiversity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. Quantify and compare measures of taxonomic diversity within and among samples<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Quantify the distribution of traits and species in a phylogenetic context<br>
@@ -47,8 +47,7 @@ Git is a version control system that allows users to track, record, and recover 
 As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. Similar standards are assumed for presentations and the generation of web-based media. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. All suspected violations of the Code will be handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
-Given the small number of class meetings, absences are strongly discouraged.
-Any conflicts should be communicated to the instructor as early as possible.
+Given the small number of class meetings, absences are strongly discouraged. Any conflicts should be communicated to the instructor as early as possible.
 
 ### Special needs
 Please contact me as soon as possible (first two weeks of the semester) if you have a documented disability that will interfere your performance of the activities planned for the course.
@@ -56,11 +55,11 @@ Please contact me as soon as possible (first two weeks of the semester) if you h
 ## Schedule
 
 ### Week 1
-**Lecture:** ***Introduction to biodiversity***<br>
+**Lecture:** ***Introduction to Biodiversity***<br>
 
-What it is and why we study it. Provide an overview of alpha, beta, and gamma diversity (part 1 of course). Provide an overview of of phylogenetic diversity (part 2 of course). Segue into the need for a quantitative approach. Introduce class to the quantitative tools that we are going to use to study biodiversity.
+What it is and why we study it. Provide an overview of alpha, beta, and gamma diversity (part 1 of course). Provide an overview of phylogenetic diversity (part 2 of course). Segue into the need for a quantitative approach. Introduce class to the quantitative tools that we are going to use to study biodiversity.
 
-**Lab:** ***Getting computer environment set up: Github and basic R***<br>
+**Lab:** ***The Computer Environment: Github and Basic R***<br>
 
 1. Getting set up in Git. Creating accounts. Exercises that might include:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;A. Creating a repository<br>
@@ -76,16 +75,16 @@ What it is and why we study it. Provide an overview of alpha, beta, and gamma di
 &nbsp;&nbsp;&nbsp;&nbsp;D. Importing data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;E. Other data types? (dates, characters, etc.)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;F. Data manipulations<br>
-&nbsp;&nbsp;&nbsp;&nbsp;G. Functions and arguments<br>
+&nbsp;&nbsp;&nbsp;&nbsp;G. R Functions and arguments<br>
 &nbsp;&nbsp;&nbsp;&nbsp;H. Programming tools<br>
 &nbsp;&nbsp;&nbsp;&nbsp;I. Basic plotting<br>
 
-3. ***Homework:*** need ideas; ones that will rely on R and GitHub
+3. ***Homework:*** need ideas; ones that will rely on R and GitHub. **Create a plot from data.**
 
 ### Week 2
 **Lecture:** ***Diversity Within a Sample***<br>
 
-Primary components of diversity: richness and evenness. With this information we can think about species abundance distributions (SAD) and associated topics such as dominance and rarity. Discuss the theoretical and practical applications of these concepts. Also, introduce diversity metrics along with their positives and negatives.
+Primary components of diversity: richness and evenness. With this information we can think about species abundance distributions (SAD) and associated topics such as dominance and rarity. Discuss the theoretical and practical applications of these concepts. Also, introduce diversity metrics along with their positives and negatives. 
 
 **Lab:** ***Alpha Diversity***<br>
 
@@ -95,7 +94,7 @@ Primary components of diversity: richness and evenness. With this information we
 
 3. Estimate evenness (compare metrics that are biased and unbiased by S)
 
-4. ***Homework:*** compare and contrast diversity estimators for a real-world dataset and make some conclusions. Basically repeat this paper: http://www.ncbi.nlm.nih.gov/pubmed/18637951
+4. ***Homework:*** Compare and contrast diversity estimators for a real-world dataset and make some conclusions. Basically repeat this paper: http://www.ncbi.nlm.nih.gov/pubmed/18637951
 
 ### Week 3
 **Lecture:** ***Diversity Among Samples***<br>
