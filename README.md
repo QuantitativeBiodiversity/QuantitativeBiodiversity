@@ -3,7 +3,7 @@
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction in history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
 [Student Portal](https://github.iu.edu/2015-QuantitativeBiodiversity/)<br>
-[Assignments](http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity)<br>
+[Assignments](http://documentup.com/QuantitativeBiodiversity/Assignments)<br>
 
 ## Course Syllabus (Spring 2015)
 
@@ -21,7 +21,8 @@ Dr. Jay Lennon<br>
 
 ### Recommended Textbooks 
 * Measuring Biological Diversity, Anne E. Magurran (2003). *(on reserve in Life Science Library)*
-* Numerical Ecology, Legendre and Legendre (2008)
+* Biological Diversity, Magurran and McGill (2011). *(available in Life Science Library)*
+* Numerical Ecology, Legendre and Legendre (2013) ([available online](http://www.sciencedirect.com/science/bookseries/01678892/24))
 * Introductory Statistics with R, Dalgard (2008) - ([available online](http://link.springer.com/book/10.1007/978-0-387-79054-1))
 * Numerical Ecology with R, Borcard, Gillet, & Legendre (2011) – ([available online](http://link.springer.com/book/10.1007/978-1-4419-7976-6))
 * Functional and Phylogenetic Ecology in R, Swenson (2014) - ([available online](http://link.springer.com/book/10.1007/978-1-4614-9542-0))
@@ -80,6 +81,8 @@ What it is and why we study it. Provide an overview of alpha, beta, and gamma di
 &nbsp;&nbsp;&nbsp;&nbsp;I. Basic plotting<br>
 
 3. ***Homework:*** need ideas; ones that will rely on R and GitHub. **Create a plot from data.**
+
+* Resources for R and Git installation:
 
 ### Week 2
 **Lecture:** ***Diversity Within a Sample***<br>
