@@ -1,8 +1,8 @@
-# Quantitative Biodiversity (BIOL Z620) 
-| <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="75" height="75" title="Quantitative Biodiversity" /> | Biodiversity refers to the variation among life and extends from within populations </p>
- to across species and entire ecosystems. Due to one of the most rapid rates of extinction </p>
- in history, the world is currently facing a biodiversity crisis. Consequently, it is imperative </p>
-that we have an understanding of biodiversity and how to characterize and quantify it. |
+# Quantitative Biodiversity (BIOL Z620)  <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="75" height="75" title="Quantitative Biodiversity" />
+
+Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. 
+Due to one of the most rapid rates of extinction  in history, the world is currently facing a biodiversity crisis. 
+Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
 [Student Portal](https://github.iu.edu/2015-QuantitativeBiodiversity/)<br>
 
