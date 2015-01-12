@@ -1,5 +1,5 @@
- # <img src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="25" height="25" title="Quantitative Biodiversity" />  Quantitative Biodiversity (BIOL Z620) 
-
+# Quantitative Biodiversity (BIOL Z620) 
+<img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="50" height="50" title="Quantitative Biodiversity" /> 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. 
 Due to one of the most rapid rates of extinction in history, the world is currently facing a biodiversity crisis. 
 Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
@@ -15,7 +15,6 @@ Students will learn how to calculate diversity metrics, generate and quantify di
 Last, we will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. 
 Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub.
 
-***THERE ARE TYPOS THAT ARE MIS-PRINTING THE EMAIL LINKS...CAN YOU FIX?***
 ### Course Director
 Dr. Jay T. Lennon<br>
 261B Jordan Hall (office)<br>
@@ -42,11 +41,12 @@ Mario Muscarella <br>
 * Numerical Ecology with R, Borcard, Gillet, & Legendre (2011) – ([available online](http://link.springer.com/book/10.1007/978-1-4419-7976-6))
 * Functional and Phylogenetic Ecology in R, Swenson (2014) – ([available online](http://link.springer.com/book/10.1007/978-1-4614-9542-0))
 
-### Copmutational Approaches to Biodiversity Using R And GitHub
+### Computational Approaches to Biodiversity Using R And GitHub
 In this course, we will be using [R](http://www.r-project.org/) and [GitHub](https://github.com/) as complimentary tools for learning quantitative biodiversity.
 R is a free, open-source programming language that is widely used for data visualization and statistics.
 Specifically, [RStudio](http://www.rstudio.com/) is an integrated development environment (IDE) that will allow us to interface with other packages, including [Markdown](http://en.wikipedia.org/wiki/Markdown) and [LaTeX](http://www.latex-project.org/).
-Last, we will be using GitHub as a version control system to track, record, and recover changes throughout the history of a project. GitHub is the premier tool for collaborative and social development of computing-based projects, allowing instructors, students, and collaborators to develop a project (or class) from remote locations. 
+Last, we will be using GitHub as a version control system to track, record, and recover changes throughout the history of a project. 
+GitHub is the premier tool for collaborative and social development of computing-based projects, allowing instructors, students, and collaborators to develop a project (or class) from remote locations. 
 We will use [IU's GitHub](https://github.iu.edu/) to host course material including this syllabus, code, and exercises. Each student will have their own private GitHub repository and will use GitHub to store and submit their work.
 
 ### Other Course Resources
@@ -73,7 +73,8 @@ As a student at IU, you are expected to adhere to the standards and policies det
 When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. 
 Similar standards are assumed for presentations and the generation of web-based media. 
 Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. 
-If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. All suspected violations of the Code will be handled according to University policies. 
+If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. 
+All suspected violations of the Code will be handled according to University policies. 
 Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
