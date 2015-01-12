@@ -1,4 +1,4 @@
-# Quantitative Biodiversity (BIOL Z620)  <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="75" height="75" title="Quantitative Biodiversity" />
+# Quantitative Biodiversity (BIOL Z620)  <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="25" height="25" title="Quantitative Biodiversity" />
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. 
 Due to one of the most rapid rates of extinction  in history, the world is currently facing a biodiversity crisis. 
