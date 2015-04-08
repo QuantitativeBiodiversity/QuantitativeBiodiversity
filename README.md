@@ -86,43 +86,48 @@ Please contact the course director as soon as possible if you have a documented 
 
 ## Schedule
 
-### Week 1
+### Week 1 & 2
 **Introduction to Quantitative Biodiversity**<br>
 
 What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics. 
 
-### Week 2
+[Handout - Git](http://quantitativebiodiversity.github.io/Assignments/Week1/Week1_Git_Handout.pdf)
+[Handout - R](http://quantitativebiodiversity.github.io/Assignments/Week1/Week1_Handout.pdf)
+
+### Week 3
 **Diversity Within a Sample (i.e., alpha-Diversity)**<br>
 We will begin by introducing one the primary ecological data structures: the site-by-species matrix. From this, we will derive the core components of diversity: richness and evenness. We will integrate richness and evenness components by covering diversity metrics and the species abundance distribution (SAD).
 
-### Week 3
+[Handout - Alpha](http://quantitativebiodiversity.github.io/Assignments/Alpha/alpha_handout.pdf)
+
+### Week 4
 **Diversity Among Samples (i.e., beta-Diversity)**<br>
 We will learn how to quantify diversity among samples (beta-diversity). We will then focus on the visualization of beta-diversity, which will include heatmaps, hierarchical clustering, and multivariate ordination. Last, we will highlight statistical approaches that allow one to test hypotheses about beta-diversity. 
 
+[Handout - Beta](http://quantitativebiodiversity.github.io/Assignments/Beta/beta_handout.pdf)
 
-### Week 4 
+### Week 5 
 **Geographic divesity**<br>
 We will introduce ways to quantify the dispersion and aggregation of species in space. We will then learn about some of the major geographic patterns of biodiversity, including the spatial species abudnance distribution (sSAD), distance decay (DD), and the species area relationship (SAR). We will conclude by using variance partitioning to quantify the contribution of geographic distance and the enviroment to species distributions. 
 
-
-### Week 5
-**Null, Neutral, and Niche Perspectives on Biodiversity**<br>
-We will compare and contrast null, neutral, and niche-based explanations for biodiversity patterns using simple individual-based models. We will then use this framework to explore patterns of biodiversity (SAD, SAR, DD, SSAD, measures of alpha & beta-diversity).
-
+[Handout - Geographical Ecology](http://quantitativebiodiversity.github.io/Assignments/GeographicalEcology/GeographicalEcology.pdf)
 
 ### Week 6
-**Introduction to Phylogenetic Diversity**<br>
+**Introduction to Phylogenetic Diversity: Traits**<br>
 We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenteically independent contrasts, and test for phylogenetic signal. 
 
+[Handout - PhyloTraits](http://quantitativebiodiversity.github.io/Assignments/PhyloTraits/PhyloTraits_handout.pdf)
+
 ### Week 7
-**More on Phylogenetic Diversity**<br>
+**More on Phylogenetic Diversity: Communities**<br>
 We will continue to learn about the intergration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
 
+[Handout - PhyloCom](http://quantitativebiodiversity.github.io/Assignments/PhyloCom/PhyloCom_handout.pdf)
+
 ### Week 8
-**Synthesis**<br>
+**Synthesis: GitOn**<br>
 We will use this class period for recapping major concepts and tools, in addition to "big data" aproaches to addressing global biodiversity issues. We will also devote class time to transferring IU GitHub respositories to a public GitHub site. 
 
-
-
+[Handout - GitOn](http://quantitativebiodiversity.github.io/Assignments/GitOn/GitOn_handout.pdf)
 
 
