@@ -91,7 +91,7 @@ Please contact the course director as soon as possible if you have a documented 
 
 What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics. 
 
-[Handout - Git](http://quantitativebiodiversity.github.io/Assignments/Week1/Week1_Git_Handout.pdf)
+[Handout - Git](http://quantitativebiodiversity.github.io/Assignments/Week1/Week1_Git_Handout.pdf)<br>
 [Handout - R](http://quantitativebiodiversity.github.io/Assignments/Week1/Week1_Handout.pdf)
 
 ### Week 3
