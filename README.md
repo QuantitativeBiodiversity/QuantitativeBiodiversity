@@ -54,7 +54,7 @@ We will also use [etherpad](http://en.wikipedia.org/wiki/Etherpad), which is a r
 &nbsp;&nbsp;&nbsp;&nbsp;1. Identify and discuss core concepts of biodiversity<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. Quantify and compare measures of taxonomic diversity within and among samples<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Quantify the distribution of traits and species in a phylogenetic context<br>
-&nbsp;&nbsp;&nbsp;&nbsp;4. Evaluate biodiversity in spatial and temporal contexts
+&nbsp;&nbsp;&nbsp;&nbsp;4. Evaluate biodiversity in spatial and temporal contexts<br>
 &nbsp;&nbsp;&nbsp;&nbsp;5. Use the R programming language to analyze and visualize biodiversity data<br>
 &nbsp;&nbsp;&nbsp;&nbsp;6. Use GitHub for conducting and managing reproducible research projects<br>
 
@@ -121,13 +121,13 @@ We will introduce ways to quantify biodiversity through time. This will include 
 [Week 5 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week5-Temporal)
 
 ### Week 6
-**Introduction to Phylogenetic Diversity: Traits**<br>
+**Phylogenetic Diversity: Traits**<br>
 We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenteically independent contrasts, and test for phylogenetic signal. 
 
 [Week 6 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week6-PhyloTraits)
 
 ### Week 7
-**More on Phylogenetic Diversity: Communities**<br>
+**Phylogenetic Diversity: Communities**<br>
 We will continue to learn about the intergration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
 
 [Week 7 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week7-PhyloCom)
