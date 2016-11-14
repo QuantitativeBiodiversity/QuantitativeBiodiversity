@@ -32,12 +32,14 @@ Nathan Wisnoski <br>
 9:30-12:00 Friday, room 155 in the [Public Health (PH) Building](http://goo.gl/LJb3W5), Janurary 13 - March 3, 2017
 
 ### Recommended Textbooks 
-* Measuring Biological Diversity, Anne E. Magurran (2004) – ([available online](http://goo.gl/MgKtXs) and on reserve in Life Science Library)
+* Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs) and on reserve in Life Science Library)
 * Biological Diversity, Magurran and McGill (2011) – ([available online](http://goo.gl/gtsFph) and on reserve in Life Science Library)
 * Numerical Ecology, Legendre and Legendre (2013) – ([available online](http://www.sciencedirect.com/science/bookseries/01678892/24))
 * Introductory Statistics with R, Dalgard (2008) – ([available online](http://link.springer.com/book/10.1007/978-0-387-79054-1))
 * Numerical Ecology with R, Borcard, Gillet, & Legendre (2011) – ([available online](http://link.springer.com/book/10.1007/978-1-4419-7976-6))
 * Functional and Phylogenetic Ecology in R, Swenson (2014) – ([available online](http://link.springer.com/book/10.1007/978-1-4614-9542-0))
+* Phylogenies in Ecology, Cadotte and Davies (2016) - ([available online](https://goo.gl/kWq457))
+* Pro Git, Chacon and Straub (2014) ([available online](https://goo.gl/zF9tNr))
 
 ### Computational Approaches to Biodiversity Using R And GitHub
 In this course, we will be using [R](http://www.r-project.org/) and [GitHub](https://github.com/) as complimentary tools for learning quantitative biodiversity. R is a free, open-source programming language that is widely used for data visualization and statistics. Specifically, [RStudio](http://www.rstudio.com/) is an integrated development environment (IDE) that will allow us to interface with other packages, including [Markdown](http://en.wikipedia.org/wiki/Markdown) and [LaTeX](http://www.latex-project.org/). Last, we will be using GitHub as a version control system to track, record, and recover changes throughout the history of a project. 
