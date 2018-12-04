@@ -4,7 +4,7 @@ Biodiversity refers to the variation among life and extends from within populati
 
 [Student Portal](https://github.com/QuantitativeBiodiversity/QB-2019)<br>
 
-## Course Syllabus (Spring 2017)
+## Course Syllabus (Spring 2019)
 
 ### Course summary
 This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, and microbial systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. We will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. Concepts related to taxonomic and phylogenetic diversity will be extended to understand spatial and temporal dynamics. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub. The class will culiminate with student-led team projects. 
