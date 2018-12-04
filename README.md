@@ -1,5 +1,7 @@
 # Quantitative Biodiversity (BIOL Z620)  <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="25" height="25" title="Quantitative Biodiversity" />
 
+<!--- After making changes you may need to recompile with "webhook" using the following link: http://documentup.com/jeromegn/documentup) -->
+
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth's history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
 [Student Portal](https://github.com/QuantitativeBiodiversity/QB-2019)<br>
@@ -13,7 +15,7 @@ This course will introduce students to the concepts, patterns, metrics, and tool
 Dr. Jay T. Lennon<br>
 261B Jordan Hall (office)<br>
 812-856-0962 (office phone)<br>
-[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202017)<br>
+[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202019)<br>
 
 ### Other Instructors
 Dr. Daniel Schwartz<br>
@@ -84,7 +86,7 @@ Please contact the course director as soon as possible if you have a documented 
 **Introduction to the computing environment**<br>
 Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material. 
 
-[Week 0 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week0)<br>
+[Week 0 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week0)<br>
 
 
 ### Week 1
@@ -92,49 +94,49 @@ Prior to our first class meeting, students will install software, conduct basic 
 
 What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics. 
 
-[Week 1 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week1)<br>
+[Week 1 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week1)<br>
 
 
 ### Week 2
 **Diversity Within a Sample (i.e., alpha-Diversity)**<br>
 We will begin by introducing one the primary ecological data structures: the site-by-species matrix. From this, we will derive the core components of diversity: richness and evenness. We will integrate richness and evenness components by covering diversity metrics and the species abundance distribution (SAD).
 
-[Week 2 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week2-Alpha)
+[Week 2 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week2-Alpha)
 
 ### Week 3
 **Diversity Among Samples (i.e., beta-Diversity)**<br>
 We will learn how to quantify diversity among samples (beta-diversity). We will then focus on the visualization of beta-diversity, which will include heatmaps, hierarchical clustering, and multivariate ordination. Last, we will highlight statistical approaches that allow one to test hypotheses about beta-diversity. 
 
-[Week 3 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week3-Beta)
+[Week 3 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week3-Beta)
 
 ### Week 4 
 **Spatial divesity**<br>
 We will introduce ways to quantify the dispersion and aggregation of species in space. We will then learn about some of the major geographic patterns of biodiversity, including the spatial species abudnance distribution (sSAD), distance decay (DD), and the species area relationship (SAR). We will conclude by using variance partitioning to quantify the contribution of geographic distance and the enviroment to species distributions. 
 
-[Week 4 materils](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week4-Spatial)
+[Week 4 materils](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week4-Spatial)
 
 ### Week 5 
 **Temporal divesity**<br>
 We will introduce ways to quantify biodiversity through time. This will include ways of making infereces from non-independent, autocorrelated univariate and multivariate data. We will addresss ways to quantitatively link temporal biodiversity data to corresponding enviromental data while addressing questions of stability. 
 
-[Week 5 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week5-Temporal)
+[Week 5 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week5-Temporal)
 
 ### Week 6
 **Phylogenetic Diversity: Traits**<br>
 We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenteically independent contrasts, and test for phylogenetic signal. 
 
-[Week 6 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week6-PhyloTraits)
+[Week 6 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week6-PhyloTraits)
 
 ### Week 7
 **Phylogenetic Diversity: Communities**<br>
 We will continue to learn about the intergration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
 
-[Week 7 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week7-PhyloCom)
+[Week 7 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week7-PhyloCom)
 
 ### Week 8
 **Projects and Synthesis: GitOn**<br>
 We will use this class period for student presentations of their independent projects while recapping major concepts and tools, in addition to "big data" aproaches to addressing global biodiversity issues. . 
 
-[Week 8 materials](https://github.com/QuantitativeBiodiversity/QB-2017/tree/master/Week8-GitOn)
+[Week 8 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week8-GitOn)
 
 
