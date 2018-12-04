@@ -2,7 +2,7 @@
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth's history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
-[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2017)<br>
+[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2019)<br>
 
 ## Course Syllabus (Spring 2017)
 
@@ -16,20 +16,17 @@ Dr. Jay T. Lennon<br>
 [lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202017)<br>
 
 ### Other Instructors
-Dr. Ken Locey<br>
+Dr. Daniel Schwartz<br>
 238 Jordan Hall (office)<br>
-[kjlocey@indiana.edu](mailto:kjlocey@indiana.edu?Subject=Quantitative%20Biodiversity%202017)<br>
+[danschw@iu.edu](mailto:danschw@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
 
-Will Shoemaker <br>
+Dr. Jordan Bird <br>
 238 Jordan Hall (office)<br>
-[rshoema@indiana.edu](mailto:wrshoema@indiana.edu?Subject=Quantitative%20Biodiversity%202017)<br>
+[jorbird@iu.edu](mailto:jorbird@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
 
-Nathan Wisnoski <br>
-238 Jordan Hall (office)<br>
-[wisnoski@indiana.edu](mailto:wisnoski@indiana.edu?Subject=Quantitative%20Biodiversity%202017)<br>
 
 ### Class meetings
-9:30-12:00 Friday, room 155 in the [Public Health (PH) Building](http://goo.gl/LJb3W5), Janurary 13 - March 3, 2017
+9:30-12:00 Friday, room 16 in the [Kirkwood (KH)](https://goo.gl/3bMfqD), Janurary 11 - March 1, 2019
 
 ### Recommended Textbooks 
 * Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs) and on reserve in Life Science Library)
