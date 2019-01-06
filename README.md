@@ -1,6 +1,10 @@
 # Quantitative Biodiversity (BIOL Z620)  <img style="float: right" src="https://raw.githubusercontent.com/QuantitativeBiodiversity/QuantitativeBiodiversity/master/images/QB_logo.png" width="25" height="25" title="Quantitative Biodiversity" />
 
-<!--- After making changes you may need to recompile with "webhook" using the following link: http://documentup.com/jeromegn/documentup) -->
+<!--- After making changes you may need to recompile with "webhook" using the following link: http://documentup.com/jeromegn/documentup) 
+
+DocumentUp page doesn't recompile from the README.md automatically, but going to the address: http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity/__recompile will update the page.
+
+-->
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth's history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
@@ -9,7 +13,7 @@ Biodiversity refers to the variation among life and extends from within populati
 ## Course Syllabus (Spring 2019)
 
 ### Course summary
-This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, and microbial systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. We will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. Concepts related to taxonomic and phylogenetic diversity will be extended to understand spatial and temporal dynamics. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub. The class will culiminate with student-led team projects. 
+This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, and microbial systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. We will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. Concepts related to taxonomic and phylogenetic diversity will be extended to understand spatial and temporal dynamics. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub. The class will culminate with student-led team projects. 
 
 ### Course Director
 Dr. Jay T. Lennon<br>
@@ -19,20 +23,20 @@ Dr. Jay T. Lennon<br>
 
 ### Other Instructors
 Dr. Daniel Schwartz<br>
-238 Jordan Hall (office)<br>
+324B Jordan Hall (office)<br>
 [danschw@iu.edu](mailto:danschw@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
 
 Dr. Jordan Bird <br>
-238 Jordan Hall (office)<br>
+A306 Jordan Hall (office)<br>
 [jorbird@iu.edu](mailto:jorbird@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
 
 
 ### Class meetings
-9:30-12:00 Friday, room 16 in the [Kirkwood (KH)](https://goo.gl/3bMfqD), Janurary 11 - March 1, 2019
+9:30-12:00 Friday, room 16 in [Kirkwood (KH)](https://goo.gl/3bMfqD), Janurary 11 - March 1, 2019
 
 ### Recommended Textbooks 
-* Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs) and on reserve in Life Science Library)
-* Biological Diversity, Magurran and McGill (2011) – ([available online](http://goo.gl/gtsFph) and on reserve in Life Science Library)
+* Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs))
+* Biological Diversity, Magurran and McGill (2011) – ([available online](http://goo.gl/gtsFph))
 * Numerical Ecology, Legendre and Legendre (2013) – ([available online](http://www.sciencedirect.com/science/bookseries/01678892/24))
 * Introductory Statistics with R, Dalgard (2008) – ([available online](http://link.springer.com/book/10.1007/978-0-387-79054-1))
 * Numerical Ecology with R, Borcard, Gillet, & Legendre (2011) – ([available online](http://link.springer.com/book/10.1007/978-1-4419-7976-6))
@@ -45,9 +49,8 @@ In this course, we will be using [R](http://www.r-project.org/) and [GitHub](htt
 GitHub is the premier tool for collaborative and social development of computing-based projects, allowing instructors, students, and collaborators to develop a project (or class) from remote locations. We will use [GitHub](https://github.com/) to host course material including this syllabus, code, and exercises. Each student will have their own private GitHub repository and will use GitHub to store and submit their work.
 
 ### Other Course Resources
-We will be assembling course literature, including reading assignments in our [Quantiative Biodiversity Mendeley group](http://goo.gl/wWXVtH). 
-PDF versions of required papers, along with slides from class lectures will be posted on the IU's learning management system, [Canvas](http://goo.gl/tTmEe7). 
-We will also use [etherpad](http://en.wikipedia.org/wiki/Etherpad), which is a real-time editor that will facilitate collaboration and problem-solving inside and outside the classroom. 
+We can add paper and citations to our [Quantiative Biodiversity Mendeley group](http://goo.gl/wWXVtH). 
+PDF versions of required papers, along with slides from class lectures can be posted on the IU's learning management system, [Canvas](http://goo.gl/tTmEe7). 
 
 ### Learning Objectives
 **Quantitative Biodiversity is organized around the following learning objectives**<br>
@@ -60,10 +63,14 @@ We will also use [etherpad](http://en.wikipedia.org/wiki/Etherpad), which is a r
 &nbsp;&nbsp;&nbsp;&nbsp;6. Use GitHub for conducting and managing reproducible research projects<br>
 
 ### Student Assessment
-* **Assignments:** Students will be assigned in-class exercises, which will have problem sets that need to be submitted via GitHub.
-* **Reading:** Students will be expected to read assigned papers from the primary literature prior to class meetings. 
+* **Assignments:** Students will be given worksheets containing in-class exercises, which will also include assignments that need to be submitted via GitHub.
+* **Reading:** When assigned, students will need to read literature prior to class meetings. 
 * **Group project:** Students will be assigned to groups and will conduct an independent project that will be presented to the class.
 * **Participation:** Students will need to attend and actively engage in discussion and computational exercises.
+
+### Late Assignments
+If submitted less than 24 hours after the deadline, grade on that assignment will automatically be reducced 50 % prior to grading.
+Assignments sumbitted > 24 hours after deadline will receive no credit. 
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). 
@@ -75,7 +82,7 @@ All suspected violations of the Code will be handled according to University pol
 Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
-Given the small number of class meetings, attendence is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferable before the beginning of the semester.
+Given the small number of class meetings, attendence is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
 
 ### Special Needs
 Please contact the course director as soon as possible if you have a documented disability that will interfere your performance of the activities planned for the class.
@@ -86,7 +93,7 @@ Please contact the course director as soon as possible if you have a documented 
 **Introduction to the computing environment**<br>
 Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material. 
 
-[Week 0 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week0)<br>
+[Week 0 materials](https://github.com/jaytlennon/QB-2019/tree/master/1.HandOuts/1.Introductions)<br>
 
 
 ### Week 1
@@ -94,49 +101,32 @@ Prior to our first class meeting, students will install software, conduct basic 
 
 What is biodiversity and why do we study it? After introducing the course, we will provide an overview of GitHub and R. Laboratory exercises will include an exercise in GitHub followed by exercises in R such as data manipulations, plotting, and simple statistics. 
 
-[Week 1 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week1)<br>
-
-
 ### Week 2
 **Diversity Within a Sample (i.e., alpha-Diversity)**<br>
 We will begin by introducing one the primary ecological data structures: the site-by-species matrix. From this, we will derive the core components of diversity: richness and evenness. We will integrate richness and evenness components by covering diversity metrics and the species abundance distribution (SAD).
 
-[Week 2 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week2-Alpha)
-
 ### Week 3
+**Control Flow**
+We will introduce basic programming methods that are useful for writing code (e.g., if-then statements), which are useful for a range of applications. We will apply these tools to lab-sampling exercises, and introduce resampling procdures. 
+
+### Week 4
 **Diversity Among Samples (i.e., beta-Diversity)**<br>
-We will learn how to quantify diversity among samples (beta-diversity). We will then focus on the visualization of beta-diversity, which will include heatmaps, hierarchical clustering, and multivariate ordination. Last, we will highlight statistical approaches that allow one to test hypotheses about beta-diversity. 
+We will learn how to quantify diversity among samples (beta-diversity). We will then focus on the visualization of beta-diversity, which will include heatmaps, hierarchical clustering, and multivariate ordination.
 
-[Week 3 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week3-Beta)
-
-### Week 4 
-**Spatial divesity**<br>
-We will introduce ways to quantify the dispersion and aggregation of species in space. We will then learn about some of the major geographic patterns of biodiversity, including the spatial species abudnance distribution (sSAD), distance decay (DD), and the species area relationship (SAR). We will conclude by using variance partitioning to quantify the contribution of geographic distance and the enviroment to species distributions. 
-
-[Week 4 materils](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week4-Spatial)
-
-### Week 5 
-**Temporal divesity**<br>
-We will introduce ways to quantify biodiversity through time. This will include ways of making infereces from non-independent, autocorrelated univariate and multivariate data. We will addresss ways to quantitatively link temporal biodiversity data to corresponding enviromental data while addressing questions of stability. 
-
-[Week 5 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week5-Temporal)
+### Week 5
+**Diversity Among Samples (i.e., beta-Diversity)**
+We will continue with topics from previous week while also highlighting statistical approaches that allow one to test hypotheses about beta-diversity. 
 
 ### Week 6
 **Phylogenetic Diversity: Traits**<br>
 We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenteically independent contrasts, and test for phylogenetic signal. 
 
-[Week 6 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week6-PhyloTraits)
-
 ### Week 7
 **Phylogenetic Diversity: Communities**<br>
 We will continue to learn about the intergration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
 
-[Week 7 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week7-PhyloCom)
-
 ### Week 8
 **Projects and Synthesis: GitOn**<br>
-We will use this class period for student presentations of their independent projects while recapping major concepts and tools, in addition to "big data" aproaches to addressing global biodiversity issues. . 
-
-[Week 8 materials](https://github.com/QuantitativeBiodiversity/QB-2019/tree/master/Week8-GitOn)
+We will use this class period for student presentations of their independent projects while recapping major concepts and tools, in addition to "big data" aproaches to addressing global biodiversity issues.
 
 
