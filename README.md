@@ -70,7 +70,8 @@ PDF versions of required papers, along with slides from class lectures can be po
 
 ### Late Assignments
 If submitted less than 24 hours after the deadline, grade on that assignment will automatically be reducced 50 % prior to grading.
-Assignments sumbitted > 24 hours after deadline will receive no credit. 
+Assignments sumbitted > 24 hours after deadline will receive no credit.
+You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.  
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). 
@@ -92,8 +93,6 @@ Please contact the course director as soon as possible if you have a documented 
 ### Week 0
 **Introduction to the computing environment**<br>
 Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material. 
-
-[Week 0 materials](https://github.com/jaytlennon/QB-2019/tree/master/1.HandOuts/1.Introductions)<br>
 
 
 ### Week 1
