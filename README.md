@@ -74,13 +74,7 @@ Assignments sumbitted > 24 hours after deadline will receive no credit.
 You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.  
 
 ### Academic Integrity
-As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). 
-When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. 
-Similar standards are assumed for presentations and the generation of web-based media. 
-Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. 
-If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. 
-All suspected violations of the Code will be handled according to University policies. 
-Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
+As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. Similar standards are assumed for presentations and the generation of web-based media. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. All suspected violations of the Code will be handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
 Given the small number of class meetings, attendence is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
