@@ -32,7 +32,7 @@ A306 Jordan Hall (office)<br>
 
 
 ### Class meetings
-9:30-12:00 Friday, room 16 in [Kirkwood (KH)](https://goo.gl/3bMfqD), Janurary 11 - March 1, 2019
+9:30-12:00 Friday, room 16 in [Kirkwood (KH)](https://goo.gl/3bMfqD), January 11 - March 1, 2019
 
 ### Recommended Textbooks 
 * Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs))
@@ -69,15 +69,15 @@ PDF versions of required papers, along with slides from class lectures can be po
 * **Participation:** Students will need to attend and actively engage in discussion and computational exercises.
 
 ### Late Assignments
-If submitted less than 24 hours after the deadline, grade on that assignment will automatically be reducced 50 % prior to grading.
-Assignments sumbitted > 24 hours after deadline will receive no credit.
+If submitted less than 24 hours after the deadline, grade on that assignment will automatically be reduced 50 % prior to grading.
+Assignments submitted > 24 hours after deadline will receive no credit.
 You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.  
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. Similar standards are assumed for presentations and the generation of web-based media. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. All suspected violations of the Code will be handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
-Given the small number of class meetings, attendence is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
+Given the small number of class meetings, attendance is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
 
 ### Special Needs
 Please contact the course director as soon as possible if you have a documented disability that will interfere your performance of the activities planned for the class.
@@ -112,14 +112,14 @@ We will continue with topics from previous week while also highlighting statisti
 
 ### Week 6
 **Phylogenetic Diversity: Traits**<br>
-We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenteically independent contrasts, and test for phylogenetic signal. 
+We will learn how to make phylogenetic trees in R. After this, we will use contributed R packages to map traits onto trees, peform phylogenetically independent contrasts, and test for phylogenetic signal. 
 
 ### Week 7
 **Phylogenetic Diversity: Communities**<br>
-We will continue to learn about the intergration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
+We will continue to learn about the integration of phylogenetic for questions related to biodiversity. Specifically, we will think about phylogenetic community ecology, by introducing tools such as unifrac, net-relatedness index (NRI), and nearest taxon index (NTI).
 
 ### Week 8
 **Projects and Synthesis: GitOn**<br>
-We will use this class period for student presentations of their independent projects while recapping major concepts and tools, in addition to "big data" aproaches to addressing global biodiversity issues.
+We will use this class period for student presentations of their independent projects while recapping major concepts and tools, in addition to "big data" approaches to addressing global biodiversity issues.
 
 
