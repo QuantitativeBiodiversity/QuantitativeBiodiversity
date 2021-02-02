@@ -10,34 +10,31 @@ Biodiversity refers to the variation among life and extends from within populati
 
 [Student Portal](https://github.com/QuantitativeBiodiversity/QB-2019)<br>
 
-## Course Syllabus (Spring 2019)
+## Course Syllabus (Spring 2021)
 
 ### Course summary
 This course will introduce students to the concepts, patterns, metrics, and tools that are common to the study of biodiversity. Each class meeting will consist of a short lecture followed by computational exercises designed to analyze aspects of biodiversity using data from tree, bird, mammal, and microbial systems. Students will learn how to calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and test hypotheses with an array of statistical techniques. We will learn how to map traits to phylogenetic trees and make inferences about the phylogenetic structure of communities. Concepts related to taxonomic and phylogenetic diversity will be extended to understand spatial and temporal dynamics. Students will be introduced to modern statistical computing and graphics environments, as well as the version control tools Git and GitHub. The class will culminate with student-led team projects. 
 
 ### Course Director
 Dr. Jay T. Lennon<br>
-261B Jordan Hall (office)<br>
+261 Biology Building (office)<br>
 812-856-0962 (office phone)<br>
-[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202019)<br>
+[lennonj@indiana.edu](mailto:lennonj@indiana.edu?Subject=Quantitative%20Biodiversity%202021)<br>
 
 ### Other Instructors
-Dr. Daniel Schwartz<br>
-324B Jordan Hall (office)<br>
-[danschw@iu.edu](mailto:danschw@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
+Dr. John McMullen<br>
+073 Biology Building (office)<br>
+[jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)<br>
 
-Dr. Jordan Bird <br>
-A306 Jordan Hall (office)<br>
-[jorbird@iu.edu](mailto:jorbird@iu.edu?Subject=Quantitative%20Biodiversity%202019)<br>
-
-
+LH 030
 ### Class meetings
-9:30-12:00 Friday, room 16 in [Kirkwood (KH)](https://goo.gl/3bMfqD), January 11 - March 1, 2019
+9:30-12:00 Friday, room 030 in [Lindley Hall (KH)](tinyurl.com/4qpt7hok), March 17 - May 7, 2021
+(Owing to COVID, classes will meet virtually unless otherwise noted)
 
 ### Recommended Textbooks 
-* Measuring Biological Diversity, Magurran (2004) – ([available online](http://goo.gl/MgKtXs))
-* Biological Diversity, Magurran and McGill (2011) – ([available online](http://goo.gl/gtsFph))
-* Numerical Ecology, Legendre and Legendre (2013) – ([available online](http://www.sciencedirect.com/science/bookseries/01678892/24))
+* Measuring Biological Diversity, Magurran (2004) – ([available online](https://iucat.iu.edu/catalog/14553855))
+* Biological Diversity, Magurran and McGill (2011) – ([available online](https://ebookcentral.proquest.com/lib/iub-ebooks/detail.action?docID=3054675))
+* Numerical Ecology, Legendre and Legendre (2013) – ([available online](https://ebookcentral.proquest.com/lib/iub-ebooks/detail.action?docID=982554))
 * Introductory Statistics with R, Dalgard (2008) – ([available online](http://link.springer.com/book/10.1007/978-0-387-79054-1))
 * Numerical Ecology with R, Borcard, Gillet, & Legendre (2011) – ([available online](http://link.springer.com/book/10.1007/978-1-4419-7976-6))
 * Functional and Phylogenetic Ecology in R, Swenson (2014) – ([available online](http://link.springer.com/book/10.1007/978-1-4614-9542-0))
@@ -49,8 +46,8 @@ In this course, we will be using [R](http://www.r-project.org/) and [GitHub](htt
 GitHub is the premier tool for collaborative and social development of computing-based projects, allowing instructors, students, and collaborators to develop a project (or class) from remote locations. We will use [GitHub](https://github.com/) to host course material including this syllabus, code, and exercises. Each student will have their own private GitHub repository and will use GitHub to store and submit their work.
 
 ### Other Course Resources
-We can add paper and citations to our [Quantiative Biodiversity Mendeley group](http://goo.gl/wWXVtH). 
 PDF versions of required papers, along with slides from class lectures can be posted on the IU's learning management system, [Canvas](http://goo.gl/tTmEe7). 
+We will be using [Slack](https://slack.com/) as a primary way to communicate and problem-solve over the duration of the course. 
 
 ### Learning Objectives
 **Quantitative Biodiversity is organized around the following learning objectives**<br>
@@ -69,25 +66,22 @@ PDF versions of required papers, along with slides from class lectures can be po
 * **Participation:** Students will need to attend and actively engage in discussion and computational exercises.
 
 ### Late Assignments
-If submitted less than 24 hours after the deadline, grade on that assignment will automatically be reduced 50 % prior to grading.
-Assignments submitted > 24 hours after deadline will receive no credit.
-You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.  
+We realize that the pandemic can create challenges for meeting professional obligations. Therefore, we encourage you to let us know if you are having problems. Otherwise, if assignments are submitted less than 24 hours after the deadline, grade on that assignment will automatically be reduced 50 % prior to grading. Assignments submitted > 24 hours after deadline will receive no credit. You will receive an incomplete for the course if you receive two or more no-credit evaluations or if you receive four or more half-credit evaluations.  
 
 ### Academic Integrity
 As a student at IU, you are expected to adhere to the standards and policies detailed in the [Code of Student Rights, Responsibilities, and Conduct](http://www.iu.edu/~code/). When you submit an assignment with your name on it in this course, you are signifying that the work contained therein is all yours, unless otherwise cited or referenced. Similar standards are assumed for presentations and the generation of web-based media. Any ideas or materials taken from another source for either written or oral use must be fully acknowledged. If you are unsure about the expectations for completing an assignment, be sure to seek clarification beforehand. All suspected violations of the Code will be handled according to University policies. Sanctions for academic misconduct may include a failing grade on the assignment, reduction in your final grade, a failing grade in the course, among other possibilities, and must include a report to the Dean of Students.
 
 ### Attendance
-Given the small number of class meetings, attendance is required. Absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
+Given the small number of class meetings and group work involved in the class, synchronous attendance is required. Unexcused absences will negatively affect a student's grade. Any conflicts should be communicated to the instructor as early as possible, preferably before the beginning of the semester.
 
 ### Special Needs
-Please contact the course director as soon as possible if you have a documented disability that will interfere your performance of the activities planned for the class.
+Please contact the course director as soon as possible if you have a documented disability or any other issues that will interfere your performance of the activities planned for the class.
 
 ## Schedule
 
 ### Week 0
 **Introduction to the computing environment**<br>
 Prior to our first class meeting, students will install software, conduct basic exercises, and read introductory material. 
-
 
 ### Week 1
 **Introduction to Quantitative Biodiversity**<br>
