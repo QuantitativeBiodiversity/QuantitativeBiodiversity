@@ -26,7 +26,6 @@ Dr. John McMullen<br>
 073 Biology Building (office)<br>
 [jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)<br>
 
-LH 030
 ### Class meetings
 9:30-12:00 Friday, room 030 in [Lindley Hall (KH)](tinyurl.com/4qpt7hok), March 17 - May 7, 2021
 (Owing to COVID, classes will meet virtually unless otherwise noted)
