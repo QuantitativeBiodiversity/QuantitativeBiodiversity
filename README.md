@@ -8,7 +8,7 @@ DocumentUp page doesn't recompile from the README.md automatically, but going to
 
 Biodiversity refers to the variation among life and extends from within populations to across species and entire ecosystems. Due to one of the most rapid rates of extinction  in Earth's history, the world is currently facing a biodiversity crisis. Consequently, it is imperative that we have an understanding of biodiversity and how to characterize and quantify it.
 
-[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2019)<br>
+[Student Portal](https://github.com/QuantitativeBiodiversity/QB-2021)<br>
 
 ## Course Syllabus (Spring 2021)
 
@@ -26,8 +26,12 @@ Dr. John McMullen<br>
 073 Biology Building (office)<br>
 [jgmcmull@iu.edu](mailto:jgmcmull@iu.edu?Subject=Quantitative%20Biodiversity%202021)<br>
 
+Dr. Canan Karakoç<br>
+073 Biology Building (office)<br>
+[canankarakoc@gmail.com](mailto:canankarakoc@gmail.com?Subject=Quantitative%20Biodiversity%202021)<br>
+
 ### Class meetings
-9:30-12:00 Friday, room 030 in [Lindley Hall (KH)](tinyurl.com/4qpt7hok), March 17 - May 7, 2021
+9:30-12:00 Friday, room 030 in [Lindley Hall (LH)](tinyurl.com/4qpt7hok), March 17 - May 7, 2021
 (Owing to COVID, classes will meet virtually unless otherwise noted)
 
 ### Recommended Textbooks 
